@@ -1,0 +1,78 @@
+{
+  "resturants": [
+    {
+      "name": "niharika",
+      "address": "bbsr",
+      "email": "niharika11@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "niharika",
+      "address": "bbsr",
+      "email": "niharika@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "niharika",
+      "address": "bbsr",
+      "email": "niharika@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "niharika",
+      "address": "bbsr",
+      "email": "niharika@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "priyanka",
+      "address": "bbsr",
+      "email": "priyanka@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "priyanka33",
+      "address": "bbsr",
+      "email": "priyanka@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "saheli123",
+      "address": "ctc",
+      "email": "saheli@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "silver spoon",
+      "address": "kiit",
+      "email": "silver@GMAIL.COM",
+      "id": 25
+    },
+    {
+      "name": "food1",
+      "address": "ctc",
+      "email": "foodgmail.com",
+      "id": 27
+    },
+    {
+      "name": "pal heights",
+      "address": "ctc",
+      "email": "pal123@gmail.com",
+      "id": 28
+    }
+  ],
+  "details": [
+    {
+      "name": "priyanka",
+      "address": "cuttack",
+      "email": "priyanka1.com",
+      "id": 1
+    },
+    {
+      "name": "henry",
+      "address": "cuttack",
+      "email": "henry.com",
+      "id": 2
+    }
+  ]
+}
